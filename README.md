@@ -1,5 +1,5 @@
 # Clicky Game(React.js)
-![](/public/StarWarsClickyGame.png)
+![](/public/StarWarsClickyGame.PNG)
 
 
 ### Overview
