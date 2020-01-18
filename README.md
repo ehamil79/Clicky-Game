@@ -1,6 +1,3 @@
-# Clicky-Game
-A memory game using React. 
-
 # Clicky Game(React.js)
 ![](/public/StarWarsClickyGame.png)
 
