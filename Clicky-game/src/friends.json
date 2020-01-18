@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Rey",
+      "image": "https://www.freepngimg.com/thumb/star_wars/4-2-rey-skywalker-star-wars-png.png",
+      "clicked":false
+    },
+    {
+      "id": 2,
+      "name": "Captain Phasma",
+      "image": "https://www.freepngimg.com/thumb/star_wars/3-2-captain-phasma-star-wars-png.png",
+      "clicked":false
+    },
+    {
+      "id": 3,
+      "name": "R2D2",
+      "image": "https://www.freepngimg.com/thumb/star_wars/23467-7-star-wars-photos.png",
+      "clicked":false
+    },
+    {
+      "id": 4,
+      "name": "Chew",
+      "image": "https://www.freepngimg.com/thumb/star_wars/23432-1-star-wars-file.png",
+      "clicked":false
+    },
+    {
+      "id": 5,
+      "name": "Yoda",
+      "image": "https://www.freepngimg.com/thumb/star_wars/23189-1-star-wars-transparent-background.png",
+      "clicked":false
+    },
+    {
+      "id": 6,
+      "name": "Luke Skywalker",
+      "image": "https://www.freepngimg.com/thumb/star_wars/37664-1-luke-skywalker-transparent.png",
+      "clicked":false
+    },
+    {
+      "id": 7,
+      "name": "Palpatine",
+      "image": "https://www.freepngimg.com/thumb/star_wars/80756-outerwear-skywalker-darth-anakin-palpatine-maul-hood.png",
+      "clicked":false
+    },
+    {
+      "id": 8,
+      "name": "Darth Maul",
+      "image": "https://www.freepngimg.com/thumb/star_wars/89031-phantom-star-darth-skywalker-wars-anakin-figurine.png",
+      "clicked":false
+    },
+    {
+      "id": 9,
+      "name": "Darth Vader",
+      "image": "https://www.freepngimg.com/thumb/star_wars/94153-outerwear-skywalker-darth-anakin-fictional-luke-maul.png",
+      "clicked":false
+    },
+    {
+      "id": 10,
+      "name": "Snow Trooper",
+      "image": "https://www.freepngimg.com/thumb/star_wars/82758-toy-star-snowtrooper-clone-wars-figurine-stormtrooper.png",
+      "clicked":false
+    },
+    {
+      "id": 11,
+      "name": "Storm Trooper",
+      "image": "https://www.freepngimg.com/thumb/star_wars/87506-star-clone-character-wars-fictional-figurine-stormtrooper.png",
+      "clicked":false
+    },
+    {
+      "id": 12,
+      "name": "Anakin Skywalker",
+      "image": "https://www.freepngimg.com/thumb/star_wars/94165-star-luke-clone-skywalker-wars-anakin-figurine.png",
+      "clicked":false
+    }
+  ]
